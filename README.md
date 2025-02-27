@@ -81,5 +81,5 @@ Listar a tabela
 SELECT * FROM users;
 ```
 
-## E por ultimo mas não menos importante Lógica de programação!, sinto que usei bastante lógica nesse projeto, estruturas condicionais e algumas functions no php que não sabia da existencia (kkkkkk), foi uma boa experiência!
+- E por ultimo mas não menos importante Lógica de programação!, sinto que usei bastante lógica nesse projeto, estruturas condicionais e algumas functions no php que não sabia da existencia (kkkkkk), foi uma boa experiência!
 
